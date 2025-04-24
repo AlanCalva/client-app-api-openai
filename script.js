@@ -7,7 +7,7 @@ async function enviarMensaje() {
         return;
     }
 
-    const url = "http://3.237.205.215/API-GPT-PHP/endpoints/chat.php";  // Reemplaza con la URL real de tu API
+    const url = "http://3.239.39.242/API-GPT-PHP/endpoints/chat.php";  // Reemplaza con la URL real de tu API
     const datos = { message: inputMensaje };
 
     try {
